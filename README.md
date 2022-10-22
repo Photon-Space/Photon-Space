@@ -8,6 +8,4 @@ https://t.me/psc_official_channel
 ## Feature
 * please check our official website https://www.photon-space.io
 
-
 Ramon and 7P Labs.
-#### last updated : 2022-10-23
