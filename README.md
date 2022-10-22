@@ -1,4 +1,4 @@
-Photon Space is a new blockchain network system. ( Photon Space Chain )
+Photon Space is a new blockchain network system( Photon Space Chain ). 
 
 The purpose of this project is to make it easier and more diverse for developers to access and utilize blockchain projects.
 
