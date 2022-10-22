@@ -9,4 +9,6 @@ Photon Space Chain Developer Group ( Official Channel )
 - https://t.me/psc_official_channel
 
 
-by Ramon and 7P Labs members.
+by Ramon and 7P Labs.
+
+Latest update : 2022-10-23
